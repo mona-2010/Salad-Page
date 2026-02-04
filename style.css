@@ -864,6 +864,10 @@ h1 .logo {
         margin: 0px 10px;
     }
 
+        #menu .menu-card .text{
+        font-size: 20px;
+    }
+
     #subscribe {
         width: 100%;
         height: auto;
@@ -1113,6 +1117,10 @@ h1 .logo {
 
     #menu .menu-card img {
         width: 250px;
+    }
+
+    #menu .menu-card .text{
+        font-size: 15px;
     }
 
     #subscribe {
